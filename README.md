@@ -20,7 +20,7 @@ visit url : [http://127.0.0.1:8082](http://127.0.0.1:8081) to view site phpmy ad
 username : root, and password: root to login with root access 
 username : project, and password: project to login with project access  and database project
 
-visit my site [Hikmah Sharing](http://www.hikmahsharing.com/) to view site phpmy admin
+visit my site [Hikmah Sharing](http://www.hikmahsharing.com/)
 
 
-## root web server on folder sites. 
+this setting root web server on folder sites. 
